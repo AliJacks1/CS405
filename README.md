@@ -1,4 +1,4 @@
-CS405
+# CS405
 Overview
 
 This repository contains all required coursework for CS 405 Secure Software Development. It demonstrates my understanding of secure coding practices, vulnerability mitigation, encryption policies, automation, and DevSecOps integration.
