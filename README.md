@@ -26,8 +26,8 @@ Portfolio Reflection
 A written reflection summarizing my learning and growth in secure software development.
 
 
-Key Concepts Demonstrated
-Input validation
+#Key Concepts Demonstrated
+#Input validation
 Memory safety
 Secure coding standards
 Encryption at rest, in flight, and in use
